@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"github": {
+			"url": "https://api.githubcopilot.com/mcp/",
+			"type": "http"
+		},
+		"trello": {
+			"url": "https://mcp.trello.com/v1",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
